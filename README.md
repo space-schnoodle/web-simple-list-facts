@@ -4,4 +4,4 @@ Project made by following the Udemy course [Build a Simple Full-Stack Web app](h
 
 Basically the project consist on a list of facts/data or thing you learn daily or in time.
 
-The purpose of this is to practice basic concepts.
+The purpose of this simple APP is to practice basic concepts.
